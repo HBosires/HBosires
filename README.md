@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HBosires
-- 👀 I’m interested in Software Development
+- 👀 I’m a Software Developer
 - 🌱 I’m always learning something new.
 - 💞️ I’m looking to collaborate on building Scalable web applications 
 - 📫 How to reach me email at hezekiahbosireosero@gmail.com
